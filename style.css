@@ -1,0 +1,21 @@
+.calculator{
+    color: black;
+    border: solid black;
+
+}
+.TicTacToe{
+    border: solid black;
+
+}
+.calculator :hover{
+    cursor: pointer;
+    color: red;
+}
+.TicTacToe :hover{
+     cursor: pointer;
+    color: red;
+
+}
+body{
+    background-color: bisque;
+}
